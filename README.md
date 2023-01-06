@@ -7,7 +7,7 @@
 
 Preview
 
-Link : https://mylistmovies.netlify.app/
+Link : https://si-blog.netlify.app/
 
 ## Screenshots
 
